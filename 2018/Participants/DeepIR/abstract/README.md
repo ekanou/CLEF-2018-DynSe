@@ -1,0 +1,3 @@
+## Description of your methods
+
+Over the coming weeks we (the organizers) will be writing overview papers describing this year's CLEF DynSe challenges. In these papers we would like to include a summary of the approaches you are adopting in the CLEF DynSe task challenges. Hence, we ask you to provide us with an abstract of your submission. Please commit a txt file where you describe in short (1-paragraph per method) your approaches to be included in the overview paper.
